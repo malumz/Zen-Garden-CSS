@@ -1,0 +1,42 @@
+body { 
+	background-image: url(http://65.media.tumblr.com/0ea321760478ca98ad9be45c29e5f85a/tumblr_inline_mtsnl3nqQx1qzpklg.jpg);
+background-repeat: no-repeat;
+background-size: 1400px;
+background-attachment: fixed;
+	margin: 0; 
+
+	padding: 0;
+	}
+	
+h1 {
+ 	color: #FB03FF;
+ 	font-family: 'Helvetica';
+ 	font-size: 50px;
+ 	text-align: center;
+ }
+h2 {
+	color:#FD0D35;
+	font-family:'fanct';
+	display: inline;
+}
+
+h3 {
+	color: #FD0D35;
+	display: inline;
+
+}
+
+div p {
+	color: white;
+	 font-size: 18px; 
+    font-weight: bold; 
+    padding: 4px; 
+	}
+li {
+	 font-size: 1em; 
+    font-weight: bold; 
+    padding: 4px;
+    color:#0FE8C7;
+    text-decoration: none; 
+}
+option {font-family: verdan
