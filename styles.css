@@ -1,46 +1,89 @@
 body { 
-	background-image: url(http://65.media.tumblr.com/0ea321760478ca98ad9be45c29e5f85a/tumblr_inline_mtsnl3nqQx1qzpklg.jpg);
+	background-image: url(http://despiertacordoba.files.wordpress.com/2014/06/este-es-el-aspecto-que-deber-c3ada-presentar-siempre-un-trozo-de-pel-c3adcula-virgen.jpg);
 background-repeat: no-repeat;
 background-size: 1400px;
 background-attachment: fixed;
 	margin: 0; 
-
-	padding: 0;
+padding: 0;
 	}
 	
-h1 {
- 	color: #FB03FF;
+
+	h1 {
+ 	color: white;
  	font-family: 'Helvetica';
- 	font-size: 50px;
+ 	font-size: 30px;
  	text-align: center;
- }
-h1:hover {
-	font-size: 60px;
-}
+
+ 	transition: all 3.5s;
+ 	background-image: url(http://www.encabezadostwitter.eu/panel/encabezados/css-code.jpg);
+ 	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1200px;
+
+	}
+	h1:hover { color:#1CF5F2;
+		font-size: 90px; }
 
 h2 {
-	color:#FD0D35;
-	font-family:'fanct';
+	color:#16FCAB;
+	font-family:'Helvetica';
 	display: inline;
+	margin: 35%;
+	font-size: 25px;
+
 }
 
 h3 {
-	color: #FD0D35;
+	color: #16FCAB;
 	display: inline;
+	font-family: 'Helvetica';
+	margin: 34%;
+	font-size: 23px;
+	text-decoration: underline;
 
 }
 
 div p {
-	color: white;
+	color: #E1FFFC;
 	 font-size: 18px; 
     font-weight: bold; 
-    padding: 4px; 
+    padding: 4px;
+    width: 500px;
+    background: rgba(28, 255, 198, .3);
+    margin: 10px 280px;
+    font-family: 'Helvetica';
+    border-radius: 15px;
+   
+
 	}
 li {
 	 font-size: 1em; 
     font-weight: bold; 
-    padding: 4px;
+    padding: 20px 64px;
     color:#0FE8C7;
     text-decoration: none; 
+    display: inline;
+    width: .5px;
+    
 }
-option {font-family: verdan
+footer {
+font-weight: bold;
+font-size: 70px;
+padding: 100px;
+background-image: url(http://www.encabezadostwitter.eu/panel/encabezados/css-code.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 1100px;
+
+
+}
+
+
+.navigation li a {
+	color:#3BC92E;}
+
+
+a:link { color: #20FFD7;
+text-decoration: none; }
+
+
